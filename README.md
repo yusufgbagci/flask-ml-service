@@ -1,2 +1,5 @@
 # flask-ml-service
-A sample repository for shwo the Azure piplene
+A sample Flask application to showcase the Azure Pipeline.
+
+## Environment
+Python 3.7
